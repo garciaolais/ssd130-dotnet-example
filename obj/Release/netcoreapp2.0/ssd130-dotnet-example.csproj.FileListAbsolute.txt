@@ -1,0 +1,15 @@
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\bin\Release\netcoreapp2.0\netBot_white.bmp
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\bin\Release\netcoreapp2.0\ssd130-dotnet-example.deps.json
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\bin\Release\netcoreapp2.0\ssd130-dotnet-example.runtimeconfig.json
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\bin\Release\netcoreapp2.0\ssd130-dotnet-example.runtimeconfig.dev.json
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\bin\Release\netcoreapp2.0\ssd130-dotnet-example.dll
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\bin\Release\netcoreapp2.0\ssd130-dotnet-example.pdb
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\bin\Release\netcoreapp2.0\i2c-dotnet.dll
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\obj\Release\netcoreapp2.0\ssd130-dotnet-example.csproj.CoreCompileInputs.cache
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\obj\Release\netcoreapp2.0\ssd130-dotnet-example.AssemblyInfoInputs.cache
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\obj\Release\netcoreapp2.0\ssd130-dotnet-example.AssemblyInfo.cs
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\obj\Release\netcoreapp2.0\ssd130-dotnet-example.csproj.CopyComplete
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\obj\Release\netcoreapp2.0\ssd130-dotnet-example.dll
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\obj\Release\netcoreapp2.0\ssd130-dotnet-example.pdb
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\obj\Release\netcoreapp2.0\ssd130-dotnet-example.csprojResolveAssemblyReference.cache
+C:\Users\olais\source\repos\SSD1306\SSD1306\SSD130.TEST\bin\Release\netcoreapp2.0\ssd130-dotnet.dll
